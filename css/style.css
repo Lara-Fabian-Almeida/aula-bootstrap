@@ -1,0 +1,34 @@
+.body {
+    font: 70px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #D7BDE2;
+}
+
+.quem-somos {
+    background-color: #88a0cc;
+}
+
+.margin-descricao {
+    margin-top: 10px;
+}
+
+.margin {
+    /* padding: Uma espécie de margem interna, que preenche o espaço da margem entre dois componentes */
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #a49ada;
+}
+
+.servicos {
+    background-color: lightskyblue;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
